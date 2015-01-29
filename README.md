@@ -2,6 +2,8 @@ Nostalgia
 ===========
 PHPStorm Color Theme
 
+Mostly inspired by [Espresso](http://macrabbit.com/espresso/) The Web Editor.
+
 Suggested font: [Input Mono](http://input.fontbureau.com/download/).
 
 ## Preview
